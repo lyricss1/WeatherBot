@@ -21,4 +21,4 @@ ProWeather is a Telegram bot built with Python and Aiogram that provides real-ti
 ## Setup
 1. Clone the repo:
 ```bash
-git clone [https://github.com/yourusername/ProWeatherBot.git](https://github.com/lyricss1/WeatherBot.git)
+git clone https://github.com/yourusername/ProWeatherBot.git
